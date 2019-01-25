@@ -1,6 +1,9 @@
 import java.util.*;
 
-//Hacker Rank!!!
+/**
+ * Hacker Rank!!!
+ * Linux For windows Terminal
+ */
 
 class Problem4{
   int amIDoneYet = 0;
